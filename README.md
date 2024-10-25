@@ -12,7 +12,7 @@ poisonden/poisonden is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="2b_nier___automata_by_gasia112_dg4xrep-fullview.jpg" width="500" height="350">
+  <img src="wallpaper-a.jpg" width="500" height="350">
 </div>
 
 ## Hello World! 👋
