@@ -12,7 +12,7 @@ poisonden/poisonden is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="wallpaper-a.jpg" width="600" height="400">
+  <img src="wallpaper-a.jpg" width="600" height="450">
 </div>
 
 ## Hello World! 👋
